@@ -1,0 +1,27 @@
+@media only screen and (min-width:900px) and (max-width:1024px) {
+#content {
+  height: 500px;
+  padding: 47px 0 0;
+  width: 750px;
+}
+#content h1 {
+  font: bold 45px/20px Helvetica,Arial,sans-serif;
+  margin: 10px 0 50px;
+}
+#content form input[type="text"], #content form input[type="password"] {
+  border: 2px solid #c8c8c8;
+  border-radius: 4px;
+  font: 30px Helvetica,Arial,sans-serif;
+  margin: 0px 0 35px;
+  padding: 15px 10px 15px 40px;
+}
+#content form input[type="submit"] {
+  font: bold 29px Helvetica,Arial,sans-serif;
+  height: 50px;
+  margin: 20px 0 56px 16px;
+  width: 215px;
+}
+.button {
+  padding: 27px 0;
+}
+}

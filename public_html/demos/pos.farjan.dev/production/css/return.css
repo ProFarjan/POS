@@ -1,0 +1,41 @@
+.maindiv {
+  width: 50%;
+  margin: 0 auto;
+}
+.maindiv h2 {
+  text-align: center;
+  border-bottom: 1px solid;
+  padding-bottom: 5px;
+}
+.details {
+  width: 100%;
+  margin-bottom: 13px;
+}
+.details tr{}
+.details tr td{}
+.product {
+  width: 100%;
+  margin-bottom: 10px;
+  border: 1px solid;
+}
+.product tr{}
+.product tr td {
+  border-bottom: 1px solid;
+  padding: 8px;
+}
+.result {
+  width: 66%;
+  margin: 0 auto;
+}
+.result tr{}
+.result tr td {
+  padding-bottom: 6px;
+}
+#quantity {
+  width: 102px;
+  text-align: center;
+}
+#upquant {
+  border-radius: 5px;
+}
+input[type="text"]{text-align: center;}
